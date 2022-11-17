@@ -1,0 +1,6 @@
+a)
+unsorted 6 10 13 5 8 3 2 11
+sorted 2 3 5 6 8 10 11 13 
+time it takes to complete sorting 1.0041379928588867
+b)
+7 position element from the sorted array 11
